@@ -1,0 +1,54 @@
+#
+# gridID 1
+#
+gridtype  = generic
+gridsize  = 144
+datatype  = float
+xsize     = 2
+ysize     = 72
+yname     = lat
+ylongname = "Latitude"
+yunits    = "degrees_north"
+yfirst    = -88.75
+yinc      = 2.5
+scanningMode = 64
+#
+# gridID 2
+#
+gridtype  = generic
+gridsize  = 288
+datatype  = float
+xsize     = 144
+ysize     = 2
+xname     = lon
+xlongname = "Longitude"
+xunits    = "degrees_east"
+xfirst    = 1.25
+xinc      = 2.5
+scanningMode = 64
+#
+# gridID 3
+#
+gridtype  = lonlat
+gridsize  = 10368
+datatype  = float
+xsize     = 144
+ysize     = 72
+xname     = lon
+xlongname = "Longitude"
+xunits    = "degrees_east"
+yname     = lat
+ylongname = "Latitude"
+yunits    = "degrees_north"
+xfirst    = 1.25
+xinc      = 2.5
+yfirst    = -88.75
+yinc      = 2.5
+scanningMode = 64
+#
+# gridID 4
+#
+gridtype  = generic
+gridsize  = 2
+xsize     = 2
+scanningMode = 64

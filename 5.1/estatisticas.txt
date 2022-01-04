@@ -1,0 +1,17 @@
+Estatisticas
+Area Quartil de baixo Quartil de cima
+SJ Rio Preto -22,692022 19,822495
+Ribeirao Preto -26,553211 19,471628
+Aracatuba -24,591909 21,829807
+Bauru -25,196358 23,968426
+Araraquara -24,694294 20,017117
+Piracicaba -24,135187 25,884441
+Campinas -26,883390 24,031481
+Presidente Prudente -29,699432 26,044685
+Marilia -27,647301 23,305645
+Assis -32,214783 27,879414
+Itapetininga -30,747337 26,823214
+Macro Metropolitana Paulista -27,665733 23,560120
+Vale do Paraiba -26,209595 23,737673
+Litoral Sul -35,511375 27,595072
+Metropolitana de SP -36,387161 28,997444
